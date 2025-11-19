@@ -1,4 +1,4 @@
-## Making Player to collect the ammo and increase the bullet spawn count.
+Making Player to collect the ammo and increase the bullet spawn count.
 ## REG NO : 212224040295
 ## NAME : SANTHOSHKUMAR P
 ##  Aim
